@@ -1,8 +1,8 @@
 ## Hi there 👋
-*My name is Hussam
-*I'm a fresh graduate
-*I signed up for GitHub to improve my technical skills and learn new things.
-*I'm looking forward to helping people here whenever I can.
+-My name is Hussam <br>
+-I'm a fresh graduate <br>
+-I signed up for GitHub to improve my technical skills and learn new things <br>
+-I'm looking forward to helping people here whenever I can <br>
 <!--
 **Hu-ssam/Hu-ssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
